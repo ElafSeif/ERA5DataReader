@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/era5_data_reader" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
